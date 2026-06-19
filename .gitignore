@@ -1,0 +1,9 @@
+django_env/
+
+__pycache__/
+*.pyc
+
+.idea/
+.vscode/
+
+.env
